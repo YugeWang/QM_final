@@ -6,4 +6,4 @@ Hot deck imputaion and VIF was processed using R.
 
 Datasets used and is also attached.
 
-appendix is also attached.
+Appendix is also attached.
