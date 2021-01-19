@@ -1,8 +1,8 @@
 # QM_final
 
-This analysis mainly used python which is attached. 
+This analysis mainly used python which is attached here. 
 
-Hot deck imputaion and VIF is processed using R.
+Hot deck imputaion and VIF was processed using R.
 
 Datasets used and is also attached.
 
